@@ -1,4 +1,29 @@
+function CreateMultiplyTable
 P:15mins
 D:40mins
+C:The addition of tabs and newlines in the code is not careful enough
+A:Read the meaning of the topic clearly, and pay more attention to the things added together at the end of the string
+
+function isValid
+P:4mins
+D:4mins
+C:The implementation is relatively simple and can be completed on time
+A:Optimize code to further reduce usage time
+
+function IsEndBiggerThanStart
+P:2mins
+D:2mins
+C:The implementation is relatively simple and can be completed on time
+A:Optimize code to further reduce usage time
+
+function IsStsrtAndEndInRange
+P:2mins
+D:2mins
+C:The implementation is relatively simple and can be completed on time
+A:Optimize code to further reduce usage time
+
+function PrintMultiplyTable
+P:10mins
+D:35mins
 C:The addition of tabs and newlines in the code is not careful enough
 A:Read the meaning of the topic clearly, and pay more attention to the things added together at the end of the string
